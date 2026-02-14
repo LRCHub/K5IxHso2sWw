@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Mellow Melo",
+  "base_artist": "HAWK",
+  "createdAt": "2026-02-14T11:59:33.796549Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mellow Melo",
+      "artist": "HAWK",
+      "has_synced": false,
+      "path": "select/pl_01_Mellow_Melo_HAWK.txt"
+    }
+  ]
+}
